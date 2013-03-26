@@ -1,4 +1,4 @@
-Challenge
+##Startup Institute's Dev RampUp Challenge##
 =========
 
 The 10-day challenge for the Startup Institute Dev RampUp
